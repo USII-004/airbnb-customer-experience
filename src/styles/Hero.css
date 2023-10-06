@@ -1,0 +1,22 @@
+section {
+  padding: 20px;
+}
+
+.hero__section {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero__img {
+  max-width: 400px;
+  align-self: center;
+}
+
+.hero__header {
+  margin-bottom: 16px;
+  font-size: 2rem;
+}
+
+.hero__text {
+  margin-top: 0;
+}
